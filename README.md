@@ -1,5 +1,4 @@
-<!Doctype html>
-<html>
+
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -85,7 +84,7 @@
             <td> Computer</td>
             <tr>
 
-            </tr>
+     
         </tr>
         <td> Word</td>
         <td> 80</td>
@@ -93,7 +92,7 @@
         <td> Computer</td>
         <tr>
 
-        </tr>
+      
     </tr>
     <td> Excel</td>
     <td> 73</td>
@@ -101,7 +100,6 @@
     <td> Computer</td>
     <tr>
 
-    </tr>
 </tr>
 <td> Powerpoint</td>
 <td> 95</td>
