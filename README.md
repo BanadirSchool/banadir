@@ -1,3 +1,4 @@
+
 <html>
     <head>
     <meta charset="UTF-8">
@@ -18,7 +19,7 @@
             border-collapse: collapse;
             width: 800px;
             height: 200px;
-            border: 1px solid white;
+           
             
             box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2), -1px -1px 8px rgba(0, 0, 0, 0.2);
         }
@@ -84,7 +85,7 @@
             <td> Computer</td>
             <tr>
 
-     
+           
         </tr>
         <td> Word</td>
         <td> 80</td>
@@ -92,7 +93,7 @@
         <td> Computer</td>
         <tr>
 
-      
+       
     </tr>
     <td> Excel</td>
     <td> 73</td>
